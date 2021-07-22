@@ -20,6 +20,7 @@
     "@angular/platform-browser-dynamic": "~11.2.0",
     "@angular/router": "~11.2.0",
     "@ionic/angular": "^5.5.2",
+    "dc_app_login_sdk_cordova": "git+https://github.com/antwerpes/dc_app_login_sdk_cordova.git",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
@@ -45,7 +46,6 @@
     "cordova-plugin-splashscreen": "^5.0.2",
     "cordova-plugin-statusbar": "^2.4.2",
     "cordova-plugin-whitelist": "^1.3.3",
-    "doccheck-app-login": "git+https://github.com/antwerpes/dc_app_login_sdk_cordova.git",
     "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~5.0.0",
     "karma": "~5.2.0",
